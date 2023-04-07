@@ -1,0 +1,15 @@
+[
+    "objects",
+    {
+        "name": "alex",
+        "email": "alex@test.py"
+    },
+    {
+        "name": "alex",
+        "email": "alex@mail.com"
+    },
+    {
+        "name": "alex",
+        "email": "alex@test.com"
+    }
+]
