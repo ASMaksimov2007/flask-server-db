@@ -43,5 +43,9 @@
     {
         "name": "alex",
         "email": "alex@test.com"
+    },
+    {
+        "name": "test",
+        "email": "test"
     }
 ]
